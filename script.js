@@ -93,3 +93,6 @@ function callSwitch(){
 // leggi gli operandi
 // esegui lo switch per l'operazione corretta (e salva il risultato)
 // scrivi il risultato
+
+
+return ; 
